@@ -1,0 +1,59 @@
+{
+  "uid" : "609c1c745c1a7d90",
+  "name" : "testCanLoginWithValidateUser",
+  "title" : "Test can login with validate user",
+  "time" : {
+    "start" : 1504596561279,
+    "stop" : 1504596566773,
+    "duration" : 5494
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "5255bb8bfb86fa0d",
+    "name" : "Default Suite : PirogovWorkShop",
+    "title" : "Default Suite : PirogovWorkShop"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Default Suite : PirogovWorkShop"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "workshop.tests.LoginTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Default Suite : PirogovWorkShop"
+  }, {
+    "name" : "testMethod",
+    "value" : "testCanLoginWithValidateUser"
+  }, {
+    "name" : "testSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "thread",
+    "value" : "24176@Yuriys-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testGroup",
+    "value" : "PirogovWorkShop"
+  }, {
+    "name" : "host",
+    "value" : "Yuriys-MacBook-Pro.local"
+  } ],
+  "parameters" : [ ]
+}

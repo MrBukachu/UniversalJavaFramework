@@ -1,0 +1,70 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 4,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "596b909a70cd6007",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 4,
+        "passed" : 4,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "511cd335c8a273c0",
+        "name" : "testCanLoginWithValidateUser",
+        "title" : "Test can login with validate user",
+        "time" : {
+          "start" : 1504596457487,
+          "stop" : 1504596464081,
+          "duration" : 6594
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "609c1c745c1a7d90",
+        "name" : "testCanLoginWithValidateUser",
+        "title" : "Test can login with validate user",
+        "time" : {
+          "start" : 1504596561279,
+          "stop" : 1504596566773,
+          "duration" : 5494
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a47aeb6d87dceb73",
+        "name" : "testCanLoginWithValidateUser",
+        "title" : "Test can login with validate user",
+        "time" : {
+          "start" : 1504596837932,
+          "stop" : 1504596848863,
+          "duration" : 10931
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "722c39fa37397c1c",
+        "name" : "testCanLoginWithValidateUser",
+        "title" : "Test can login with validate user",
+        "time" : {
+          "start" : 1504596198709,
+          "stop" : 1504596208882,
+          "duration" : 10173
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
