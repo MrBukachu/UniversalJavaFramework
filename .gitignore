@@ -4,4 +4,5 @@ build
 gradle
 out
 target
+.DS_Store
 UniversalFramework.imi
