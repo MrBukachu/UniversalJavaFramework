@@ -4,7 +4,6 @@ import com.automation.remarks.testng.VideoListener;
 import com.codeborne.selenide.Configuration;
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Listeners;
 
 @Listeners ({VideoListener.class})
@@ -19,6 +18,5 @@ public class Base {
         Configuration.collectionsTimeout = 10000; //explicite
         Configuration.timeout = 4000; //implicite
         Configuration.fastSetValue = true;
-
     }
 }

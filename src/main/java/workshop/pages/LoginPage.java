@@ -20,11 +20,10 @@ public class LoginPage {
         return this;
     }
 
-    public MainPage loginAs(User user) throws InterruptedException {
+    public MainPage loginAs(User user) {
         $(By.id("loginEdit-el")).val(user.getName());
         $(By.id("passwordEdit-el")).val(user.getPassword());
         $(By.xpath(".//*[@data-item-marker='btnLogin']")).click();
-        Thread.sleep(200000);
         return new MainPage();
     }
 }
